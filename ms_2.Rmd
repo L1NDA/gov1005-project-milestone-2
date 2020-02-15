@@ -1,0 +1,24 @@
+---
+title: "Final Project Milestone 2"
+author: "Linda Qin"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project 1: Harvard Friend Group Selection Study
+###### by Carine Hajjar, Diego Arias and Johannes Lang
+
+[Original link here](https://johanneslang25.shinyapps.io/Harvard_Friend_Group_Study/) 
+
+I looked at this project because, for my final project, I am also planning to do somewhat extensive data collection of the Harvard population and was curious how past Gov1005 students approached this. Unfortunately, while it looks like this project was able to collect a lot of data (surveying over 100 students in Eliot), one of its drawbacks was not elaborating on data collection methods. There were only two sentences briefly describing the data the survey collected, but I would have loved a link to the sample survey, or an analysis/reflection on the potential biases and drawbacks of their methods (For example, how did they pub their survey? Was their incentive? Were certain blocking groups disproportionately represented?). However, I am impressed at the amount of demographic data the group thought to collect -- for example, I would not have thought to ask whether a student was international, or urban vs. rural which could be interesting to analyze for my final project.
+
+## Project 2: Predicting the Results of LoL Games
+###### by Lewis Zou
+
+[Original link here](https://lewiszou.shinyapps.io/LoL-Predictive-Analysis/) 
+
+This project was quite impressive. Lewis was able to conduct many analyses on relationships between different factors in the game and team performance, and was very thorough in his documentation and explanations. I really enjoyed the interactivity of the Shiny App; instead of only providing visualizations of data, we were able to choose which teams and data we wanted to visualize. However, it was difficult to understand what some of the variables represented in these graphs (even for someone who plays the game like I), such as 'golddat10' and 'golddat15'. Either renaming to more easily understandable variables, aliasing (if that's possible), or having a basic legend would have been helpful. Furthermore, Lewis included a lot of descriptions of each graph which was great for a deep dive, but for somebody who wanted to receive some quick conclusions/a summary of the project, the information on the homepage went too in-depth; he could have potentially included a short section that provided a better overview of his entire project. (Still very interesting though!)
